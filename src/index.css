@@ -1,0 +1,47 @@
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 80px 0;
+}
+
+.header {
+  font-size: 36px;
+  text-align: center;
+  padding: 10px 0;
+}
+
+.inputs {
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+  border: 1px solid;
+  padding: 10px;
+}
+
+.error {
+  color: red;
+  font-size: 12px;
+  margin: 0;
+}
+
+.send {
+  height: 21px;
+}
+
+.select {
+  height: 21px;
+}
+
+.container {
+  margin-top: 10px;
+  padding-left: 70px;
+  border: 1px solid;
+  overflow: auto;
+}
+
+.header-list {
+  font-size: 16px;
+  padding: 5px 0;
+  text-decoration: underline;
+}

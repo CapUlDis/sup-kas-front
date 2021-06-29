@@ -1,0 +1,7 @@
+{
+  "COUNTRIES": [
+    { "name": "Russia +7", "code": "7" },
+    { "name": "France +33", "code": "33" },
+    { "name": "German +49", "code": "49" }
+  ]
+}
